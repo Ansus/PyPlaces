@@ -1,2 +1,2 @@
 # PyPlaces
-### Get Foursquare data (through APIs) with Python
+Analysis of Foursquare data (through APIs)
